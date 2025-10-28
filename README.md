@@ -10,6 +10,6 @@ ExamProject--> com--> exam--> model, 'ui', 'util'.
 
 The 'model' folder contains the java file Question.java. The 'ui' folder contains ExamPortal.java, and the 'util' folder contains QuestionLoader.java.
 
-exam_question.txt is saved in ExamProject
+exam_question.txt is saved in ExamProject.
 
 After saving the classes in the appropriate directories, run ExamPortal.java. The program will launch the GUI, displaying the login page, followed by the exam window, and finally the results page.
