@@ -6,7 +6,7 @@ The Online Exam Portal is a desktop based application that conducts a time- boun
 Attatched in this repository are the codes for the mentioned packages. 
 
 Following is the folder structure required to run this program: 
-'ExamProject'--> 'com'-->'exam'-->'model', 'ui', 'util'. 
+ExamProject--> com--> exam--> model, 'ui', 'util'. 
 
 The 'model' folder contains the java file Question.java. 
 The 'ui' folder contains ExamPortal.java
