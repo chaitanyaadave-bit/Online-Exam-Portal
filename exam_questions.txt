@@ -1,0 +1,41 @@
+Which programming language is known as 'Write Once, Run anywhere'?
+C++
+Python
+Java
+JavaScript
+2
+
+What does OOP stand for?
+Object Oriented programming
+Open Office Protocol
+Online Operating Platform
+Official Operations Procedure
+0
+
+Which of the following in NOT a fundamental principle of OOP?
+Encapsulation
+Inheritance
+Compilation
+Polymorphism
+2
+
+What is the extenion of java code files?
+.js 
+.txt
+.class
+.java
+3
+
+What is the keyword used for exception handling?
+excep
+try
+throw
+catch
+2
+
+Which keyword is used to define a class as a constant?
+final
+static
+private
+abstract
+0
